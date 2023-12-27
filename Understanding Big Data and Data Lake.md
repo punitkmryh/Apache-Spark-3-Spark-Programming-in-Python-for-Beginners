@@ -1,7 +1,7 @@
 ---
 
 ## **Spark Programming Course Introduction**
-Below is a breakdown of the agenda points and a more detailed documentation for each section of Spark Programming course introduction:
+Below is a breakdown of the agenda points and a more detailed documentation for each section of Spark Programming course introduction
 ### **Agenda Points:**
 
 1. **Introduction to Data Processing and Big Data Problems:**
